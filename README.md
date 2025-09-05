@@ -28,22 +28,22 @@ A hands-on lab project that demonstrates deploying and managing a Hybrid Active 
  - Internet connectivity for synchronization.
 
 ### Deployment 
-    1. **Provision VM on Proxmox**
-        - Create a VM with at least 2 vCPUs, 4GB RAM, and 50-60GB storage.
-        - Install Windows Server 2022.
-    2. **Configure Active Directory**
-        -
-        -
-        -
-    3. **Apply Group Policies**
-        -
-    4. **Integrate with Azure AD**
-        -
-        -
-        -
-    5. **Enable Intune Services**
-        -
-        -
+1. **Provision VM on Proxmox**
+    - Create a VM with at least 2 vCPUs, 4GB RAM, and 50-60GB storage.
+    - Install Windows Server 2022.
+2. **Configure Active Directory**
+    -
+    -
+    -
+3. **Apply Group Policies**
+    -
+4. **Integrate with Azure AD**
+    -
+    -
+    -
+5. **Enable Intune Services**
+    -
+    -
 
 ## Tools
  - Proxmox VE
