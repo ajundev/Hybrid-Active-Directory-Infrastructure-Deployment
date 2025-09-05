@@ -46,11 +46,11 @@ A hands-on lab project that demonstrates deploying and managing a Hybrid Active 
     - Validate hybrid device join and policy enforcement.
 
 ## Tools
- - Proxmox VE
- - Windows Server 2022
- - Azure AD (Microsoft Entra ID)
- - Azure AD Connect
- - Microsoft Intune
+ - Proxmox VE - Virtualization platform
+ - Windows Server 2022 - Active Directory, DNS, DHCP
+ - Azure AD (Microsoft Entra ID) - Cloud identity & hybrid sync
+ - Azure AD Connect - Identity synchronization
+ - Microsoft Intune - Device and compliance management
 
 ## References
  - [Microsoft](https://learn.microsoft.com/en-us/docs/)
