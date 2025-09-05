@@ -38,12 +38,12 @@ A hands-on lab project that demonstrates deploying and managing a Hybrid Active 
 3. Apply Group Policies
     - Configure password complexity, lockout policies, and mapped drives.
 4. Integrate with Azure AD
-    -
-    -
-    -
+    - Install and configure Azure AD Connect.
+    - Enable Hybrid Join for devices.
+    - Sync identities to Azure AD.
 5. Enable Intune Services
-    -
-    -
+    - Configure device compliances and security policies in Intune.
+    - Validate hybrid device join and policy enforcement.
 
 ## Tools
  - Proxmox VE
@@ -54,6 +54,3 @@ A hands-on lab project that demonstrates deploying and managing a Hybrid Active 
 
 ## References
  - [Microsoft](https://learn.microsoft.com/en-us/docs/)
- -
- -
- -
