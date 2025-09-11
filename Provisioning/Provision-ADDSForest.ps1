@@ -5,6 +5,7 @@ Install-WindowsFeature -Name AD-Domain-Services -IncludeManagementTools
 Install-ADDSForest `
 -DomainName "corp.local" `          # Your domain FQDN
 -DomainNetbiosName "CORP" `         # NetBIOS short name
+-DomainMode "Win2022" `             # Windows Version
 -CreateDnsDelegation:$false `       # No delegation
 -DatabasePath "C:\Windows\NTDS" `   # AD DS database path
 -LogPath "C:\Windows\NTDS" `        # AD DS logs
