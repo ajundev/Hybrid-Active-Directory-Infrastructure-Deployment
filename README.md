@@ -18,6 +18,9 @@ A hands-on lab project that demonstrates deploying and managing a Hybrid Active 
     - Integrated on-prem AD with Azure AD (Microsoft Entra ID) using Azure AD Connect.
     - Enabled Hybrid Join for Windows devices.
     - Configured cloud sync and Intune enrollment for policy and compliance management.
+- **System Hardening**
+    - Implemented Microsoft Security Baselines for Windows Server 2022.
+    - Applied CIS Microsoft Windows Server 2022 Benchmark.
 
 ## Getting Started
 
